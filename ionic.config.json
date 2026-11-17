@@ -1,0 +1,7 @@
+{
+  "name": "estudia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
